@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksrc_mlahr_com=self.webpackChunksrc_mlahr_com||[]).push([[678],{7704:function(u,e,n){n.r(e),n.d(e,{default:function(){return c}});var r=n(7294);function c(){return r.createElement("div",null,"Huhu! ",4+1/.3)}}}]);
-//# sourceMappingURL=component---src-pages-index-js-ee9b8fb16db7a00b2348.js.map
